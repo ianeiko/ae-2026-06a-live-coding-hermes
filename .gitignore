@@ -1,0 +1,5 @@
+# Your real key. Never commit this. The committed half is .env.example (README §3).
+.env
+
+.DS_Store
+*.log
